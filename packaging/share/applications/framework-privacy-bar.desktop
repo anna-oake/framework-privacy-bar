@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Privacy Bar
+Comment=Shows Framework microphone privacy switch status
+Exec=framework-privacy-bar
+Icon=framework-privacy-bar
+Terminal=false
+Categories=Utility;
+StartupNotify=false

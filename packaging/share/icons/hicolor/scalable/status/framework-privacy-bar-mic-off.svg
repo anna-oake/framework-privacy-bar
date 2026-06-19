@@ -1,0 +1,82 @@
+
+  <svg
+          xmlns='http://www.w3.org/2000/svg'
+          width='16'
+          height='16'
+          xmlns:gpa='https://www.gtk.org/grappa'
+          gpa:version='1'
+          gpa:state='1'
+          gpa:keywords='audio-input-microphone mic-no microphone-muted'>
+    <defs
+            id='defs1'
+            fill='rgb(255,255,255)'
+            stroke='none'
+            class='foreground foreground-fill'
+            gpa:states='none'
+            gpa:animation-repeat='0'
+            gpa:animation-segment='0'
+            gpa:fill='foreground'>
+    </defs>
+    <path
+            id='holder'
+            fill='none'
+            stroke='rgb(255,255,255)'
+            stroke-opacity='0.3'
+            stroke-width='2'
+            stroke-linecap='square'
+            stroke-linejoin='round'
+            d='M 8 15 L 8 13 M 3 6 L 3 8 C 3 10.7614241, 5.23857641 13, 8 13 M 13 8 L 13 6'
+            class='transparent-fill foreground-stroke'
+            gpa:stroke-width='0.5 2 3'
+            gpa:stroke='foreground'
+            gpa:fill='none'
+            gpa:states='0 1'>
+    </path>
+    <path
+            id='x'
+            fill='none'
+            stroke='rgb(255,255,255)'
+            stroke-width='2'
+            stroke-linecap='round'
+            stroke-linejoin='round'
+            d='M 15 11 L 11 15 M 15 15 L 11 11'
+            class='transparent-fill foreground-stroke'
+            gpa:stroke-width='0.5 2 3'
+            gpa:stroke='foreground'
+            gpa:fill='none'
+            gpa:states='0 1'>
+    </path>
+    <path
+            id='outline'
+            fill='none'
+            stroke='rgb(255,255,255)'
+            stroke-opacity='0.25'
+            stroke-width='2'
+            stroke-linecap='round'
+            stroke-linejoin='round'
+            d='M 8 10 C 8.32938194 8.77072811, 9 8.2679491, 10 8 L 10 3 C 10 1.89543045, 9.10456944 1, 8 1 C 6.89543056 1, 6 1.89543045, 6 3 L 6 8 C 6 9.10456944, 7.0571909 10, 8 10 Z'
+            class='transparent-fill foreground-stroke'
+            gpa:stroke-width='0.5 2 3'
+            gpa:stroke='foreground'
+            gpa:fill='none'
+            gpa:states='0'>
+    </path>
+    <path
+            id='fill'
+            opacity='0.25'
+            fill='rgb(255,255,255)'
+            fill-opacity='1'
+            fill-rule='nonzero'
+            stroke='rgb(255,255,255)'
+            stroke-opacity='1'
+            stroke-width='2'
+            stroke-linecap='round'
+            stroke-linejoin='round'
+            d='M 8 10 C 8.32938194 8.77072811, 9 8.2679491, 10 8 L 10 3 C 10 1.89543045, 9.10456944 1, 8 1 C 6.89543056 1, 6 1.89543045, 6 3 L 6 8 C 6 9.10456944, 7.0571909 10, 8 10 Z'
+            class='foreground foreground-fill foreground-stroke'
+            gpa:stroke-width='0.5 2 3'
+            gpa:stroke='foreground'
+            gpa:fill='foreground'
+            gpa:states='1'>
+    </path>
+  </svg>
